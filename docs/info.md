@@ -18,3 +18,4 @@ To use my project,
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I used logic gates and LED'S
