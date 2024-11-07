@@ -10,8 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-
-My project works by 
+My project works by, allowing the user to turn on or off switches to turn on lights
 
 ## How to test
 
